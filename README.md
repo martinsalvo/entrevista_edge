@@ -1,1 +1,1 @@
-# entrevista_edge
+Modelo entrevista - EdgeConnect
